@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Graph
 {
-    public class Class1
+    public class Graph
     {
-        public Class1()
+        public Graph()
         {
         }
     }
